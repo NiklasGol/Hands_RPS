@@ -14,3 +14,16 @@ In order to train and this program the following steps need to be followed:
 1. Record different hand gestures with the record_data.py script.
 2. Train the neural network with the train_pose.py script.
 3. Execute the main.py script in order to play a game.
+
+## Example
+
+This example shows a game where the player choose scissors and the computer choose paper. Thus the player won.
+
+![My Image](./example/1.png)
+![My Image](./example/2.png)
+![My Image](./example/3.png)
+![My Image](./example/4.png)
+![My Image](./example/5.png)
+![My Image](./example/6.png)
+![My Image](./example/7.png)
+![My Image](./example/8.png)
