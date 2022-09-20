@@ -15,6 +15,13 @@ In order to train and this program the following steps need to be followed:
 2. Train the neural network with the train_pose.py script.
 3. Execute the main.py script in order to play a game.
 
+## How to play
+
+After starting the main.py script the game will wait for the player to press s in order to start the game.
+As common in any rock, paper, scissors game the computer will count the player in with "ROCK", "PAPER" and finally "SCISSORS".
+With the last count the player is supposed to show the gesture he choose into the webcam. The game will recognize the shown gesture and
+compares it with the one chosen by the computer to determine a winner.
+
 ## Example
 
 This example shows a game where the player choose scissors and the computer choose paper. Thus the player won.
